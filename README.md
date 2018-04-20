@@ -21,16 +21,16 @@ Download:
 Install with Homebrew:
 
 - [jq](https://stedolan.github.io/jq/) lightweight and flexible command-line JSON processor
-- [gvm](https://github.com/moovweb/gvm) go version manager
 - [nvm](https://github.com/creationix/nvm) node version manager
+- [gvm](https://github.com/moovweb/gvm) go version manager
 - [pyenv](https://github.com/pyenv/pyenv) python version manager
 - [MongoDB](https://www.mongodb.com/) open-source document-oriented database system
 - [PostgreSQL](https://www.postgresql.org/) open source object-relational database system
 
 ```bash
 brew install jq
-brew install gvm
 brew install nvm
+brew install gvm
 brew install pyenv
 brew install mongodb
 brew install postgresql
@@ -48,10 +48,7 @@ brew cask install pgadmin4
 brew cask install docker
 ```
 
-## Git Config
+## Configuration
 
-TODO
-
-## Bash Profile
-
-TODO
+[~/.gitconfig](.gitconfig)
+[~/.bash_profile](.bash_profile)
