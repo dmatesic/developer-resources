@@ -1,0 +1,46 @@
+[user]
+  name = Domenic Matesic
+  email = domenic.matesic@gmail.com
+
+[credential]
+  helper = osxkeychain
+[push]
+  default = upstream
+
+[branch]
+  autosetuprebase = always
+
+[color]
+  ui = true
+
+[pull]
+  rebase = true
+
+[rebase]
+  autosquash = true
+
+[fetch]
+  prune = true
+
+[core]
+  editor = /usr/bin/vi
+  excludesfile = $HOME/.gitignore_global
+
+[alias]
+  cam = commit -a -m
+  co = checkout
+  cob = checkout -b
+  d = diff
+  lg = log --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+  po = push -u origin
+  rim = rebase -i master
+  s = status -s
+  todo = grep --heading --break --ignore-case -e 'TODO: *'
+
+[filter "lfs"]
+  clean = git-lfs clean %f
+  smudge = git-lfs smudge %f
+  required = true
+
+[help]
+  autocorrect = 1
