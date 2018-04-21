@@ -50,5 +50,7 @@ brew cask install docker
 
 ## Configuration
 
-[~/.gitconfig](.gitconfig)
-[~/.bash_profile](.bash_profile)
+[~/.git-completion.sh](https://github.com/git/git/blob/master/contrib/completion/git-completion.bash)  
+[~/.git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)  
+[~/.gitconfig](.gitconfig)  
+[~/.bash_profile](.bash_profile)  
