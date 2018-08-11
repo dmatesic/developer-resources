@@ -5,6 +5,7 @@
 Subscribing to weekly newsletters is an effective way to stay current with technology and trends. These are my favorites:
 
 - [Changelog Weekly](https://changelog.com/weekly)
+- [Hacker Newsletter](https://www.hackernewsletter.com/)
 - [Web Operations Weekly](https://webopsweekly.com/)
 - [Frontend Focus](https://frontendfoc.us/)
 - [Node Weekly](https://nodeweekly.com/)
