@@ -55,3 +55,7 @@ brew cask install docker
 [~/.git-prompt.sh](https://github.com/git/git/blob/master/contrib/completion/git-prompt.sh)  
 [~/.gitconfig](.gitconfig)  
 [~/.bash_profile](.bash_profile)  
+
+## Miscellaneous
+
+[Astral — Organize Your GitHub Stars With Ease](https://app.astralapp.com/dashboard)
