@@ -1,3 +1,8 @@
+## Data
+
+- [Do you want a better understanding of Buffer in Node.js?](https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+- [Stream Handbook](https://github.com/substack/stream-handbook)
+
 ## Testing
 
 - [Happier TDD with testdouble.js](https://vimeo.com/169413322)
