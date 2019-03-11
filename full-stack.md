@@ -52,7 +52,13 @@ TODO
 
 ## Database
 
+> ### SQL
+
 TODO
+
+> ### NoSQL
+
+- [Why You Should Never Use MongoDB](http://www.sarahmei.com/blog/2013/11/11/why-you-should-never-use-mongodb/comment-page-2/)
 
 ## Backend
 
@@ -94,7 +100,19 @@ TODO
 
 > ### React/Redux
 
-TODO
+- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [A cartoon intro to Redux](https://code-cartoons.com/a-cartoon-intro-to-redux-3afb775501a6)
+- [Getting started with Redux](https://egghead.io/courses/getting-started-with-redux)
+
+> ### WebAssembly
+
+- [A cartoon intro to WebAssembly](https://hacks.mozilla.org/2017/02/a-cartoon-intro-to-webassembly)
+
+## AI
+
+> ### Machine Learning
+
+- [Machine Learning for Humans](https://medium.com/machine-learning-for-humans/why-machine-learning-matters-6164faf1df12)
 
 ## Misc
 
