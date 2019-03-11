@@ -1,5 +1,7 @@
 # Developer Resources
 
+## [Full Stack Resources](full-stack.md)
+
 ## Weekly Newsletters
 
 Subscribing to weekly newsletters is an effective way to stay current with technology and trends. These are my favorites:
@@ -56,6 +58,6 @@ brew cask install docker
 [~/.gitconfig](.gitconfig)  
 [~/.bash_profile](.bash_profile)  
 
-## Miscellaneous
+## Misc
 
 [Astral — Organize Your GitHub Stars With Ease](https://app.astralapp.com/dashboard)
