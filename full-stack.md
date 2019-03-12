@@ -32,7 +32,7 @@ TODO
 
 > ### Command Line / Terminal
 
-TODO
+- [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial?single_page=1)
 
 > ### Testing
 
