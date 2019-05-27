@@ -4,8 +4,6 @@
 
 ## Weekly Newsletters
 
-Subscribing to weekly newsletters is an effective way to stay current with technology and trends. These are my favorites:
-
 - [Changelog Weekly](https://changelog.com/weekly)
 - [Hacker Newsletter](https://www.hackernewsletter.com/)
 - [Web Operations Weekly](https://webopsweekly.com/)
@@ -13,6 +11,17 @@ Subscribing to weekly newsletters is an effective way to stay current with techn
 - [Node Weekly](https://nodeweekly.com/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [Golang Weekly](https://golangweekly.com/)
+
+## Podcasts
+
+- [The Changelog](https://changelog.com/podcast) Conversations with the hackers, leaders, and innovators of software development
+- [Software Engineering Daily](https://softwareengineeringdaily.com/category/podcast) The world through the lens of software
+- [Soft Skills Engineering](https://softskills.audio/) Weekly advice podcast for software developers. We answer questions about all the stuff you didn't realize you needed to know about being an engineer
+- [The Indie Hackers Podcast](https://www.indiehackers.com/podcast) Raw conversations with the founders behind profitable
+online businesses
+- [Exponent](https://exponent.fm/) A podcast about tech and society
+- [Radiolab](https://www.wnycstudios.org/shows/radiolab) Investigating a strange world
+- [Philosophize This!](http://philosophizethis.org/) A free podcast dedicated to sharing the ideas that shaped our world!
 
 ## Tools and Apps
 
