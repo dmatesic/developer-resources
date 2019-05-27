@@ -6,6 +6,8 @@
 
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 - [Awesome Design Patterns](https://github.com/DovAmir/awesome-design-patterns)
+- [“Gang of Four” patterns in JavaScript](https://designpatternsgame.com/patterns)
+- [Design patterns for the Go programming language](https://bvwells.github.io/go-patterns/)
 
 > ### Algorithms, Data Structures, and Space/Time Complexity
 
@@ -44,6 +46,8 @@ TODO
 
 - [Building Microservices: Designing Fine-Grained Systems](https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
 - [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512)
+- [The Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/)
 
 ## DevOps
 
@@ -73,6 +77,10 @@ TODO
 #### Data
 
 - [JSON and Go](https://blog.golang.org/json-and-go)
+
+#### Tooling
+
+- [An Overview of Go's Tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 
 #### Testing
 
@@ -121,10 +129,28 @@ TODO
 
 - [The Lean Startup](https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 
+> ### Side Projects
+
+- [Indie Hackers](https://www.indiehackers.com)
+- [FindCollabs](https://findcollabs.com)
+- [Week 0 : Maker paralysis and why I'm doing the ship therapy challenge](https://othmane.io/writing/ship_therapy_maker_paralysis_week_0)
+
 > ### Business Management
 
 - [The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It](https://www.amazon.com/Myth-Revisited-Small-Businesses-About/dp/0887307280)
 - [The Innovator's Dilemma](https://www.amazon.com/Innovators-Dilemma-Revolutionary-Change-Business/dp/0062060244)
+
+> ### Organizational Design and Culture
+
+- [How Is Software Developed At Amazon?](http://highscalability.com/blog/2019/3/4/how-is-software-developed-at-amazon.html)
+- [Eight Ways to Build Collaborative Teams](https://hbr.org/2007/11/eight-ways-to-build-collaborative-teams)
+- [Building Leadership in an Open Source Community](https://www.linuxfoundation.org/resources/open-source-guides/building-leadership-in-an-open-source-community/)
+- [Engineering Culture at Airbnb](https://medium.com/airbnb-engineering/engineering-culture-at-airbnb-345797c17cbe)
+- [Don’t F Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4)
+- [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/app-dev-testing/lessons-7-highly-successful-software-engineering-cultures)
+- [How Etsy drives a culture of empathy, autonomy, learning](https://www.pagerduty.com/blog/etsy-engineer-exchange/)
+- [Valve Employee Handbook](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+- [High-Performing Teams Need Psychological Safety. Here’s How to Create It](https://hbr.org/2017/08/high-performing-teams-need-psychological-safety-heres-how-to-create-it)
 
 > ### Leadership
 
@@ -140,3 +166,15 @@ TODO
 > ### Agile
 
 - [Learning Agile](https://www.amazon.com/Learning-Agile-Understanding-Scrum-Kanban/dp/1449331920)
+
+> ### Networking
+
+- [12 Memorable Ways To Introduce Yourself At A Networking Event](https://www.forbes.com/sites/forbescommunicationscouncil/2019/04/23/12-memorable-ways-to-introduce-yourself-at-a-networking-event/#365e6a3a4d88)
+
+> ### Job Search
+
+- [Triplebyte](https://triplebyte.com)
+
+> ### Other
+
+- [Stackshare](https://stackshare.io)
