@@ -20,8 +20,6 @@
 - [The Indie Hackers Podcast](https://www.indiehackers.com/podcast) Raw conversations with the founders behind profitable
 online businesses
 - [Exponent](https://exponent.fm/) A podcast about tech and society
-- [Radiolab](https://www.wnycstudios.org/shows/radiolab) Investigating a strange world
-- [Philosophize This!](http://philosophizethis.org/) A free podcast dedicated to sharing the ideas that shaped our world!
 
 ## Tools and Apps
 
