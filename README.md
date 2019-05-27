@@ -40,14 +40,12 @@ brew install postgresql
 ```
 
 - [Visual Studio Code](https://code.visualstudio.com/) source code editor with support for debugging, embedded Git control, syntax highlighting, intelligent code completion, snippets, and code refactoring
-- [Studio 3T](https://studio3t.com/) GUI for MongoDB
-- [pgAdmin](https://www.pgadmin.org/) the most popular and feature rich Open Source administration and development platform for PostgreSQL
+- [TablePlus](https://tableplus.io/) modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 - [Docker](https://www.docker.com/) open platform for developers and sysadmins to build, ship, and run distributed applications
 
 ```bash
 brew cask install visual-studio-code
-brew cask install studio-3t
-brew cask install pgadmin4
+brew cask install tableplus
 brew cask install docker
 ```
 
