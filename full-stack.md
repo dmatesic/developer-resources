@@ -2,6 +2,10 @@
 
 ## Fundamentals
 
+> ### Architecture
+
+- [Choose Boring Technology](http://boringtechnology.club/)
+
 > ### Design Patterns
 
 - [Head First Design Patterns](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
